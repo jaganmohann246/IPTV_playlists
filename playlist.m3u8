@@ -1,6 +1,6 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-11-21 06:57:58 Bangladesh Standard Time
+# Generated: 2026-11-21 07:02:49 Bangladesh Standard Time
 # Sources: 5 | Channels: 3440 | Groups: 5
 
 
@@ -6862,15 +6862,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="1090555319_ENG" tvg-name="1st Test - Day 3 - 21 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 3 - 21 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795262278~acl=/*~id=86739637309398389871231811932613~hmac=2450df2e2840ff2f023766d2b5fe4833aba3399e10316a4574bb8cb871af020f
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795265923~acl=/*~id=49747302124258430408668498688792~hmac=b75f5ae2a638634c54c3a7775f7558c85d13b417d236476f2e067d32de4d24e3
 #EXTINF:-1 tvg-id="1090555319_HIN" tvg-name="1st Test - Day 3 - 21 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 3 - 21 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795262278~acl=/*~id=86739637309398389871231811932613~hmac=2450df2e2840ff2f023766d2b5fe4833aba3399e10316a4574bb8cb871af020f
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795265923~acl=/*~id=49747302124258430408668498688792~hmac=b75f5ae2a638634c54c3a7775f7558c85d13b417d236476f2e067d32de4d24e3
 #EXTINF:-1 tvg-id="1090555319_KAN" tvg-name="1st Test - Day 3 - 21 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 3 - 21 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795262278~acl=/*~id=86739637309398389871231811932613~hmac=2450df2e2840ff2f023766d2b5fe4833aba3399e10316a4574bb8cb871af020f
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795265923~acl=/*~id=49747302124258430408668498688792~hmac=b75f5ae2a638634c54c3a7775f7558c85d13b417d236476f2e067d32de4d24e3
 #EXTINF:-1 tvg-id="1090555319_TAM" tvg-name="1st Test - Day 3 - 21 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 3 - 21 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795262278~acl=/*~id=86739637309398389871231811932613~hmac=2450df2e2840ff2f023766d2b5fe4833aba3399e10316a4574bb8cb871af020f
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795265923~acl=/*~id=49747302124258430408668498688792~hmac=b75f5ae2a638634c54c3a7775f7558c85d13b417d236476f2e067d32de4d24e3
 #EXTINF:-1 tvg-id="1090555319_TEL" tvg-name="1st Test - Day 3 - 21 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 3 - 21 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795262278~acl=/*~id=86739637309398389871231811932613~hmac=2450df2e2840ff2f023766d2b5fe4833aba3399e10316a4574bb8cb871af020f
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795265923~acl=/*~id=49747302124258430408668498688792~hmac=b75f5ae2a638634c54c3a7775f7558c85d13b417d236476f2e067d32de4d24e3
 
 #SOURCE-TITLE:Sports
 #EXTINF:-1 tvg-id="sony-sports-1-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9zb255JTIwc3BvcnRzJTIwMSUyMGhkLnBuZw" group-title="Sports",SONY SPORTS 1 HD
