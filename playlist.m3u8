@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-11-21 07:08:17 Bangladesh Standard Time
-# Sources: 3 | Channels: 7 | Groups: 3
+# Generated: 2026-11-21 11:45:22 Bangladesh Standard Time
+# Sources: 3 | Channels: 10 | Groups: 3
 
 
 #SOURCE-TITLE:News
@@ -9,17 +9,23 @@
 https://cdn.pishow.tv/ott/live/1245/master.m3u8
 
 #SOURCE-TITLE:Personal
+#EXTINF:-1 ,courtep45
+https://big1.fb3a8aeb920d6fb2b6ff7e3818b013f3.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Court_2026_Season_01__Epi_45_.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Court_2026_Season_01__Epi_45_.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=8bd53d39ffd3a4bbed9e0fbbf1bce05c%2F20261121%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261121T054244Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=065ca49459cc98160041561aad5ac0ccc5214d2a251847b78b9fcefbcb2d8acc
+#EXTINF:-1 ,courtep46
+https://big2.fb3a8aeb920d6fb2b6ff7e3818b013f3.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Court_2026_Season_01__Epi_46_.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Court_2026_Season_01__Epi_46_.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=8bd53d39ffd3a4bbed9e0fbbf1bce05c%2F20261121%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261121T054328Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=1539b92a2e01710f961e90f2c93296d4cf71340e1891102ef7c00b23d2cc6842
+#EXTINF:-1 ,courtep47
+https://big1.fb3a8aeb920d6fb2b6ff7e3818b013f3.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Court_2026_Season_01__Epi_47_.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Court_2026_Season_01__Epi_47_.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=8bd53d39ffd3a4bbed9e0fbbf1bce05c%2F20261121%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261121T054426Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=cb842e8111a5dc13312dfc4c62fdab491639b06159e4559c0945bcda8501c4e1
 #EXTINF:-1 ,courtep48
 https://big1.fb3a8aeb920d6fb2b6ff7e3818b013f3.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Court_2026_Season_01__Epi_48_.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Court_2026_Season_01__Epi_48_.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=8bd53d39ffd3a4bbed9e0fbbf1bce05c%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T154846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=a034e780c28d5a3f4286cd0716556eb49d80ea447b4030fa68ad3a89a5510126
 
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="1090555319_ENG" tvg-name="1st Test - Day 3 - 21 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 3 - 21 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795265923~acl=/*~id=49747302124258430408668498688792~hmac=b75f5ae2a638634c54c3a7775f7558c85d13b417d236476f2e067d32de4d24e3
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795279904~acl=/*~id=81921604846216513406752936725863~hmac=c171b3f40a4d38fa5ae063f7904d0ff8e847979f41ba51f1ac3e7b13547062a2
 #EXTINF:-1 tvg-id="1090555319_HIN" tvg-name="1st Test - Day 3 - 21 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 3 - 21 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795265923~acl=/*~id=49747302124258430408668498688792~hmac=b75f5ae2a638634c54c3a7775f7558c85d13b417d236476f2e067d32de4d24e3
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795279904~acl=/*~id=81921604846216513406752936725863~hmac=c171b3f40a4d38fa5ae063f7904d0ff8e847979f41ba51f1ac3e7b13547062a2
 #EXTINF:-1 tvg-id="1090555319_KAN" tvg-name="1st Test - Day 3 - 21 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 3 - 21 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795265923~acl=/*~id=49747302124258430408668498688792~hmac=b75f5ae2a638634c54c3a7775f7558c85d13b417d236476f2e067d32de4d24e3
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795279904~acl=/*~id=81921604846216513406752936725863~hmac=c171b3f40a4d38fa5ae063f7904d0ff8e847979f41ba51f1ac3e7b13547062a2
 #EXTINF:-1 tvg-id="1090555319_TAM" tvg-name="1st Test - Day 3 - 21 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 3 - 21 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795265923~acl=/*~id=49747302124258430408668498688792~hmac=b75f5ae2a638634c54c3a7775f7558c85d13b417d236476f2e067d32de4d24e3
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795279904~acl=/*~id=81921604846216513406752936725863~hmac=c171b3f40a4d38fa5ae063f7904d0ff8e847979f41ba51f1ac3e7b13547062a2
 #EXTINF:-1 tvg-id="1090555319_TEL" tvg-name="1st Test - Day 3 - 21 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 3 - 21 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795265923~acl=/*~id=49747302124258430408668498688792~hmac=b75f5ae2a638634c54c3a7775f7558c85d13b417d236476f2e067d32de4d24e3
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795279904~acl=/*~id=81921604846216513406752936725863~hmac=c171b3f40a4d38fa5ae063f7904d0ff8e847979f41ba51f1ac3e7b13547062a2
