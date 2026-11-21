@@ -8,6 +8,10 @@ Public M3U playlist for use with OnePlay and other compatible IPTV players.
 https://raw.githubusercontent.com/jaganmohann246/IPTV_playlists/main/playlist.m3u8
 ```
 
+## Pages URL
+
+https://jaganmohann246.github.io/IPTV_playlists/playlist.m3u8
+
 ## Import
 
 Copy the playlist URL above and add it as a remote M3U playlist in your IPTV player.
