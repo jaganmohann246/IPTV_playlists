@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-11-22 16:19:59 Bangladesh Standard Time
-# Sources: 2 | Channels: 7 | Groups: 2
+# Generated: 2026-11-23 06:49:26 Bangladesh Standard Time
+# Sources: 2 | Channels: 6 | Groups: 2
 
 
 #SOURCE-TITLE:News
@@ -9,15 +9,13 @@
 https://cdn.pishow.tv/ott/live/1245/master.m3u8
 
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090555678_ENG" tvg-name="India A vs Pakistan Shaheens - 22 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Sony Liv",India A vs Pakistan Shaheens - 22 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795384316~acl=/*~id=85277969181131684332443248355792~hmac=d41aae8f0dc2d9dd81ee8f8368f73a3c24ffee12b5483eb58b8e11dae325081a
-#EXTINF:-1 tvg-id="1090555678_HIN" tvg-name="India A vs Pakistan Shaheens - 22 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Sony Liv",India A vs Pakistan Shaheens - 22 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795384316~acl=/*~id=85277969181131684332443248355792~hmac=d41aae8f0dc2d9dd81ee8f8368f73a3c24ffee12b5483eb58b8e11dae325081a
-#EXTINF:-1 tvg-id="1090555678_KAN" tvg-name="India A vs Pakistan Shaheens - 22 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Sony Liv",India A vs Pakistan Shaheens - 22 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795384316~acl=/*~id=85277969181131684332443248355792~hmac=d41aae8f0dc2d9dd81ee8f8368f73a3c24ffee12b5483eb58b8e11dae325081a
-#EXTINF:-1 tvg-id="1090555678_TAM" tvg-name="India A vs Pakistan Shaheens - 22 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Sony Liv",India A vs Pakistan Shaheens - 22 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795384316~acl=/*~id=85277969181131684332443248355792~hmac=d41aae8f0dc2d9dd81ee8f8368f73a3c24ffee12b5483eb58b8e11dae325081a
-#EXTINF:-1 tvg-id="1090555678_TEL" tvg-name="India A vs Pakistan Shaheens - 22 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Sony Liv",India A vs Pakistan Shaheens - 22 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795384316~acl=/*~id=85277969181131684332443248355792~hmac=d41aae8f0dc2d9dd81ee8f8368f73a3c24ffee12b5483eb58b8e11dae325081a
-#EXTINF:-1 tvg-id="1090555675_ENG" tvg-name="UAE vs Nepal - 22 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029496/1795182383971360_AsiaCup_RisingStar_UAE_vs_NEPAL_Live_landscape_thumb.jpg" group-title="Sony Liv",UAE vs Nepal - 22 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795384316~acl=/*~id=85277969181131684332443248355792~hmac=d41aae8f0dc2d9dd81ee8f8368f73a3c24ffee12b5483eb58b8e11dae325081a
+#EXTINF:-1 tvg-id="1090555919_ENG" tvg-name="1st Test - Day 5 - 23 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 5 - 23 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795434835~acl=/*~id=98124503645382490075132048307164~hmac=32244b188e69486685faf9e2c24fcd5e70d07bc00d7b7794522932d13323bbf4
+#EXTINF:-1 tvg-id="1090555919_HIN" tvg-name="1st Test - Day 5 - 23 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 5 - 23 Nov 2026 [HIN]
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795434835~acl=/*~id=98124503645382490075132048307164~hmac=32244b188e69486685faf9e2c24fcd5e70d07bc00d7b7794522932d13323bbf4
+#EXTINF:-1 tvg-id="1090555919_KAN" tvg-name="1st Test - Day 5 - 23 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 5 - 23 Nov 2026 [KAN]
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795434835~acl=/*~id=98124503645382490075132048307164~hmac=32244b188e69486685faf9e2c24fcd5e70d07bc00d7b7794522932d13323bbf4
+#EXTINF:-1 tvg-id="1090555919_TAM" tvg-name="1st Test - Day 5 - 23 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 5 - 23 Nov 2026 [TAM]
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795434835~acl=/*~id=98124503645382490075132048307164~hmac=32244b188e69486685faf9e2c24fcd5e70d07bc00d7b7794522932d13323bbf4
+#EXTINF:-1 tvg-id="1090555919_TEL" tvg-name="1st Test - Day 5 - 23 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 5 - 23 Nov 2026 [TEL]
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795434835~acl=/*~id=98124503645382490075132048307164~hmac=32244b188e69486685faf9e2c24fcd5e70d07bc00d7b7794522932d13323bbf4
