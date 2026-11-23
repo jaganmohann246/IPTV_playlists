@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-11-23 06:49:26 Bangladesh Standard Time
-# Sources: 2 | Channels: 6 | Groups: 2
+# Generated: 2026-11-23 14:06:27 Bangladesh Standard Time
+# Sources: 2 | Channels: 2 | Groups: 2
 
 
 #SOURCE-TITLE:News
@@ -9,13 +9,5 @@
 https://cdn.pishow.tv/ott/live/1245/master.m3u8
 
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090555919_ENG" tvg-name="1st Test - Day 5 - 23 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 5 - 23 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795434835~acl=/*~id=98124503645382490075132048307164~hmac=32244b188e69486685faf9e2c24fcd5e70d07bc00d7b7794522932d13323bbf4
-#EXTINF:-1 tvg-id="1090555919_HIN" tvg-name="1st Test - Day 5 - 23 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 5 - 23 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795434835~acl=/*~id=98124503645382490075132048307164~hmac=32244b188e69486685faf9e2c24fcd5e70d07bc00d7b7794522932d13323bbf4
-#EXTINF:-1 tvg-id="1090555919_KAN" tvg-name="1st Test - Day 5 - 23 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 5 - 23 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795434835~acl=/*~id=98124503645382490075132048307164~hmac=32244b188e69486685faf9e2c24fcd5e70d07bc00d7b7794522932d13323bbf4
-#EXTINF:-1 tvg-id="1090555919_TAM" tvg-name="1st Test - Day 5 - 23 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 5 - 23 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795434835~acl=/*~id=98124503645382490075132048307164~hmac=32244b188e69486685faf9e2c24fcd5e70d07bc00d7b7794522932d13323bbf4
-#EXTINF:-1 tvg-id="1090555919_TEL" tvg-name="1st Test - Day 5 - 23 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg" group-title="Sony Liv",1st Test - Day 5 - 23 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795434835~acl=/*~id=98124503645382490075132048307164~hmac=32244b188e69486685faf9e2c24fcd5e70d07bc00d7b7794522932d13323bbf4
+#EXTINF:-1 tvg-id="1090555960_ENG" tvg-name="Afghanistan A vs Hong Kong group-title="Sony Liv", China - 23 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029679/1795356619179765_ACRS26_AFG_VS_HKC_landscape_thumb.jpg" group-title="Cricket",Afghanistan A vs Hong Kong, China - 23 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795463437~acl=/*~id=99670279106723009240392327372887~hmac=3cafcfb187e8579a0d3a660d9045472d2d68e994f492d905d1a055e56c130738
