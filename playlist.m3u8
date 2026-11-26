@@ -1,21 +1,25 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-11-26 16:15:12 Bangladesh Standard Time
-# Sources: 2 | Channels: 6 | Groups: 2
+# Generated: 2026-11-26 19:44:23 Bangladesh Standard Time
+# Sources: 3 | Channels: 7 | Groups: 3
 
 
 #SOURCE-TITLE:News
 #EXTINF:-1 tvg-id="PolimerNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143664_ld_h9_aa.png?lock=720x540" group-title="News",Polimer News (576p)
 https://cdn.pishow.tv/ott/live/1245/master.m3u8
 
+#SOURCE-TITLE:personal
+#EXTINF:-1 , BATHTHA
+https://site.fileraja.click/Moviesda.Mobi_-_Baththa_2026_Original_720p_HD.mp4?htag=34bbcc689c7ed10588c84a8ee2e048fae5f40eef1b4ec2f88ba4e79115ecf4da&etag=1795700497&ztag=aa2c4a6db5110a4cfe17f397e29f2ec803d036e302d413d481a24ffaf467c89c
+
 #SOURCE-TITLE:Sony Liv
 #EXTINF:-1 tvg-id="1090556383_ENG" tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Sony Liv",Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795740606~acl=/*~id=88814072090890615869341754420367~hmac=cfbc15bcb27c0c660303bea83b52028664feddf918e7882303ecbd73859a05ef
 #EXTINF:-1 tvg-id="1090556383_HIN" tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Sony Liv",Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795740606~acl=/*~id=65328020338265285458780422038593~hmac=74c53792c2dc8da25af8f395d4fd5339d3d1a80c09b04e890a02651cd80e629c
 #EXTINF:-1 tvg-id="1090556383_KAN" tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Sony Liv",Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795740606~acl=/*~id=65328020338265285458780422038593~hmac=74c53792c2dc8da25af8f395d4fd5339d3d1a80c09b04e890a02651cd80e629c
 #EXTINF:-1 tvg-id="1090556383_TAM" tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Sony Liv",Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795740606~acl=/*~id=65328020338265285458780422038593~hmac=74c53792c2dc8da25af8f395d4fd5339d3d1a80c09b04e890a02651cd80e629c
 #EXTINF:-1 tvg-id="1090556383_TEL" tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Sony Liv",Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795740606~acl=/*~id=65328020338265285458780422038593~hmac=74c53792c2dc8da25af8f395d4fd5339d3d1a80c09b04e890a02651cd80e629c
