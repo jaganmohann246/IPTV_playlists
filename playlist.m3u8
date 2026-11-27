@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-11-27 06:20:21 Bangladesh Standard Time
-# Sources: 3 | Channels: 7 | Groups: 3
+# Generated: 2026-11-27 20:26:31 Bangladesh Standard Time
+# Sources: 3 | Channels: 9 | Groups: 3
 
 
 #SOURCE-TITLE:News
@@ -11,15 +11,19 @@ https://cdn.pishow.tv/ott/live/1245/master.m3u8
 #SOURCE-TITLE:personal
 #EXTINF:-1 , BATHTHA
 https://site.fileraja.click/Moviesda.Mobi_-_Baththa_2026_Original_720p_HD.mp4?htag=34bbcc689c7ed10588c84a8ee2e048fae5f40eef1b4ec2f88ba4e79115ecf4da&etag=1795700497&ztag=aa2c4a6db5110a4cfe17f397e29f2ec803d036e302d413d481a24ffaf467c89c
+#EXTINF:-1 , court49
+https://big2.fb3a8aeb920d6fb2b6ff7e3818b013f3.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Court__2026__Season_01__Epi_49__720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Court__2026__Season_01__Epi_49__720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=8bd53d39ffd3a4bbed9e0fbbf1bce05c%2F20261127%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261127T141940Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=c0f62bfa4e1534eb4d42edc7f13f04e8bafa2e3e62c5252f6ecfd542e3ebce56
+#EXTINF:-1 , court50
+https://big3.fb3a8aeb920d6fb2b6ff7e3818b013f3.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Court__2026__Season_01__Epi_50__720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Court__2026__Season_01__Epi_50__720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=8bd53d39ffd3a4bbed9e0fbbf1bce05c%2F20261127%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261127T142359Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=59243ceae9a66048e228a4ce3337ce63416e70712557005fee5a7da84d0c8640
+#EXTINF:-1 , court51
+https://big2.fb3a8aeb920d6fb2b6ff7e3818b013f3.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Court__2026__Season_01__Epi_51__720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Court__2026__Season_01__Epi_51__720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=8bd53d39ffd3a4bbed9e0fbbf1bce05c%2F20261127%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261127T142502Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=c69366f63f09ea95a0514a34e03f9f6b441917777b0c3c7032bd01ca084984a4
+#EXTINF:-1 , court52
+https://big2.fb3a8aeb920d6fb2b6ff7e3818b013f3.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Court__2026__Season_01__Epi_52__720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Court__2026__Season_01__Epi_52__720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=8bd53d39ffd3a4bbed9e0fbbf1bce05c%2F20261127%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261127T142531Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=ffd7782ac67f229bfaa3089dcc295d2ca25f134bb277fd9896a877c9865f7b75
 
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090556666_ENG" tvg-name="2nd Test - Day 1 - 27 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 27 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795780754~acl=/*~id=95132522321145510559532698567849~hmac=6168bf1dc7864e8bdd08d686879629789b5f2d2e17d8c8a101042e03a7678a40
-#EXTINF:-1 tvg-id="1090556666_HIN" tvg-name="2nd Test - Day 1 - 27 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 27 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795780754~acl=/*~id=95132522321145510559532698567849~hmac=6168bf1dc7864e8bdd08d686879629789b5f2d2e17d8c8a101042e03a7678a40
-#EXTINF:-1 tvg-id="1090556666_KAN" tvg-name="2nd Test - Day 1 - 27 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 27 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795780754~acl=/*~id=95132522321145510559532698567849~hmac=6168bf1dc7864e8bdd08d686879629789b5f2d2e17d8c8a101042e03a7678a40
-#EXTINF:-1 tvg-id="1090556666_TAM" tvg-name="2nd Test - Day 1 - 27 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 27 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795780754~acl=/*~id=95132522321145510559532698567849~hmac=6168bf1dc7864e8bdd08d686879629789b5f2d2e17d8c8a101042e03a7678a40
-#EXTINF:-1 tvg-id="1090556666_TEL" tvg-name="2nd Test - Day 1 - 27 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 1 - 27 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795780754~acl=/*~id=95132522321145510559532698567849~hmac=6168bf1dc7864e8bdd08d686879629789b5f2d2e17d8c8a101042e03a7678a40
+#EXTINF:-1 tvg-id="1090556922_ENG" tvg-name="KSHI vs Churchill Brothers FC - 27 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg" group-title="Sony Liv",KSHI vs Churchill Brothers FC - 27 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795831180~acl=/*~id=29933622027914501117433148214527~hmac=31e9a026c51cea4d8074df571d1de6a2258dadd912064eadbce5cda94942e35a
+#EXTINF:-1 tvg-id="1090556922_HIN" tvg-name="KSHI vs Churchill Brothers FC - 27 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg" group-title="Sony Liv",KSHI vs Churchill Brothers FC - 27 Nov 2026 [HIN]
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795831180~acl=/*~id=29933622027914501117433148214527~hmac=31e9a026c51cea4d8074df571d1de6a2258dadd912064eadbce5cda94942e35a
+#EXTINF:-1 tvg-id="1090556911_ENG" tvg-name="Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg" group-title="Sony Liv",Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795831180~acl=/*~id=29933622027914501117433148214527~hmac=31e9a026c51cea4d8074df571d1de6a2258dadd912064eadbce5cda94942e35a
