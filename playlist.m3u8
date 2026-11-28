@@ -1,7 +1,7 @@
 #EXTM3U
 # Merged by EftyNur
-# Generated: 2026-11-27 20:26:31 Bangladesh Standard Time
-# Sources: 3 | Channels: 9 | Groups: 3
+# Generated: 2026-11-28 07:30:01 Bangladesh Standard Time
+# Sources: 3 | Channels: 12 | Groups: 3
 
 
 #SOURCE-TITLE:News
@@ -21,9 +21,15 @@ https://big2.fb3a8aeb920d6fb2b6ff7e3818b013f3.r2.cloudflarestorage.com/Moviesda.
 https://big2.fb3a8aeb920d6fb2b6ff7e3818b013f3.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Court__2026__Season_01__Epi_52__720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Court__2026__Season_01__Epi_52__720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=8bd53d39ffd3a4bbed9e0fbbf1bce05c%2F20261127%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261127T142531Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=ffd7782ac67f229bfaa3089dcc295d2ca25f134bb277fd9896a877c9865f7b75
 
 #SOURCE-TITLE:Sony Liv
-#EXTINF:-1 tvg-id="1090556922_ENG" tvg-name="KSHI vs Churchill Brothers FC - 27 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg" group-title="Sony Liv",KSHI vs Churchill Brothers FC - 27 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795831180~acl=/*~id=29933622027914501117433148214527~hmac=31e9a026c51cea4d8074df571d1de6a2258dadd912064eadbce5cda94942e35a
-#EXTINF:-1 tvg-id="1090556922_HIN" tvg-name="KSHI vs Churchill Brothers FC - 27 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg" group-title="Sony Liv",KSHI vs Churchill Brothers FC - 27 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795831180~acl=/*~id=29933622027914501117433148214527~hmac=31e9a026c51cea4d8074df571d1de6a2258dadd912064eadbce5cda94942e35a
-#EXTINF:-1 tvg-id="1090556911_ENG" tvg-name="Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg" group-title="Sony Liv",Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795831180~acl=/*~id=29933622027914501117433148214527~hmac=31e9a026c51cea4d8074df571d1de6a2258dadd912064eadbce5cda94942e35a
+#EXTINF:-1 tvg-id="1090556990_ENG" tvg-name="2nd Test - Day 2 - 28 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 2 - 28 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795870016~acl=/*~id=64898422834796565550562019330230~hmac=49e8dc4292358e4aeb4159274ff333fb978981cd2db8b527cd4e61ab3bfa33d8
+#EXTINF:-1 tvg-id="1090556990_HIN" tvg-name="2nd Test - Day 2 - 28 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 2 - 28 Nov 2026 [HIN]
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795870016~acl=/*~id=64898422834796565550562019330230~hmac=49e8dc4292358e4aeb4159274ff333fb978981cd2db8b527cd4e61ab3bfa33d8
+#EXTINF:-1 tvg-id="1090556990_KAN" tvg-name="2nd Test - Day 2 - 28 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 2 - 28 Nov 2026 [KAN]
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795870016~acl=/*~id=64898422834796565550562019330230~hmac=49e8dc4292358e4aeb4159274ff333fb978981cd2db8b527cd4e61ab3bfa33d8
+#EXTINF:-1 tvg-id="1090556990_TAM" tvg-name="2nd Test - Day 2 - 28 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 2 - 28 Nov 2026 [TAM]
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795870016~acl=/*~id=64898422834796565550562019330230~hmac=49e8dc4292358e4aeb4159274ff333fb978981cd2db8b527cd4e61ab3bfa33d8
+#EXTINF:-1 tvg-id="1090556990_TEL" tvg-name="2nd Test - Day 2 - 28 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Sony Liv",2nd Test - Day 2 - 28 Nov 2026 [TEL]
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795870016~acl=/*~id=64898422834796565550562019330230~hmac=49e8dc4292358e4aeb4159274ff333fb978981cd2db8b527cd4e61ab3bfa33d8
+#EXTINF:-1 tvg-id="1090556997_ENG" tvg-name="BMW Australian PGA Championship - Day 3 - 28 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029986/1795622259556554_DP_World_Tour_BMW_PGA_day3_landscape_thumb.jpg" group-title="Sony Liv",BMW Australian PGA Championship - Day 3 - 28 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/Golf_BMW2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795870016~acl=/*~id=64898422834796565550562019330230~hmac=49e8dc4292358e4aeb4159274ff333fb978981cd2db8b527cd4e61ab3bfa33d8
